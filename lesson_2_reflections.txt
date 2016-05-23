@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? Why do you need to do it? 
 it show that not file is being track
 How is the staging area different from the working directory and the repository?
 the SA only containg the files that are going to be commited; repository conten the snapshots of the traking files
